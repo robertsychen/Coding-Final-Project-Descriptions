@@ -39,7 +39,7 @@ Design and comparison of different peer-to-peer filesharing strategies and searc
 
 Computer Science 181 (with Kevin Ma '17 & Richard Zou '17), Spring 2015
 
-Appication of regression models, collaborative filtering, reinforcement learning, feature engineering, neural networks, support vector machines, and other machine learning methods for a variety of Kaggle competitions.
+Application of regression models, collaborative filtering, reinforcement learning, feature engineering, neural networks, support vector machines, and other machine learning methods for a variety of Kaggle competitions.
 
 Computer Science 125 (with Richard Zou '17), Fall 2014
 
